@@ -1,0 +1,174 @@
+body {
+    background-color: dimgrey; 
+    color: white;
+   font-family: 'Abel', sans-serif;
+    margin: auto;
+   #width: 55%; 
+    
+}
+
+#main {
+ width: 55%;
+    margin: auto; 
+}
+
+#navbar {
+  width: 55%;   
+    margin: auto; 
+}
+
+#beforeGame {
+}
+
+#beforeGameHeader {
+    font-size: 3em;  
+   # color: cadetblue;
+    font-weight: bold; 
+}
+
+#beforeGameContent {
+  
+    font-size: 1.2em;
+}
+
+#beforeGameContent img {
+    width: 4%;    
+}
+
+#startingBuild {
+}
+
+#startingBuildHeader {
+    font-size: 3em; 
+    #color: cadetblue;
+    font-weight: bold; 
+}
+
+#startingBuildContent {
+    font-size: 1.2em;
+
+}
+
+#startingBuildContent img {
+ width: 3%;
+}
+
+#items img {
+    width: 5%; 
+}
+
+#lategameItems {
+    
+}
+
+#laningStageHeader {
+    font-size: 3em; 
+    #color: cadetblue;
+    font-weight: bold; 
+}
+
+#laningStageContent {
+    font-size: 1.2em;
+   
+}
+
+#laningStageContent img {
+    width: 3%;    
+}
+
+#teamfightsHeader {
+    font-size: 3em; 
+    #color: cadetblue;
+    font-weight: bold; 
+}
+
+#teamfightsContent {
+      font-size: 1.2em;
+
+}
+
+#mistakesHeader {
+    font-size: 3em; 
+   # color: cadetblue;
+    font-weight: bold; 
+}
+
+#mistakesContent {
+      font-size: 1.2em;
+ 
+}
+
+#skillBuildHeader {
+    font-size: 3em; 
+    #color: cadetblue;
+    font-weight: bold; 
+}
+
+#skillBuildContent {
+      font-size: 1.2em;
+    
+}
+
+#skillBuildContent img {
+    width: 4%;    
+}
+
+#drowHeader {
+    font-size: 3em;
+  #  color: cadetblue;
+    font-weight: bold; 
+}
+
+#drowContent {
+     font-size: 1.2em;
+
+}
+
+#drow video {
+    width: 75%;
+      
+}
+
+#drow i {
+ font-size: 1.2em;    
+}
+
+#hotkeysHeader {
+    font-size: 3em;
+   # color: cadetblue;
+    font-weight: bold; 
+}
+
+#hotkeysContent {
+     font-size: 1.2em;
+  
+}
+
+#hotkeysContent img {
+ width: 3%;
+}
+
+#introTitle {
+   font-size: 3em;
+    font-weight: bold; 
+    
+    
+}
+
+#introPicture {
+margin: auto; 
+}
+
+#introPicture img {
+  
+}
+
+#top {
+       
+}
+
+#introContent {
+ font-size: 1.2em;    
+}
+
+
