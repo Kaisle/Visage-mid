@@ -14,7 +14,8 @@ body {
 
 #navbar {
   width: 55%;   
-    margin: auto; 
+    margin: auto;
+font-size: 1.2em; 	
 }
 
 #beforeGame {
