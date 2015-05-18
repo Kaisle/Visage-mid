@@ -148,6 +148,10 @@ body {
  width: 3%;
 }
 
+#hotkeys img {
+width: 100%; 
+}
+
 #introTitle {
    font-size: 3em;
     font-weight: bold; 
