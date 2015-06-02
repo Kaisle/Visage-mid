@@ -183,8 +183,12 @@ margin: auto;
     height: 30%; 
 }
 
-#replays {
+#replaysHeader {
     font-size: 3em;
     color: cadetblue;
     font-weight: bold; 
+}
+
+#replaysContent {
+    font-size: 2em;
 }
