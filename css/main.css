@@ -192,3 +192,11 @@ margin: auto;
 #replaysContent {
     font-size: 2em;
 }
+
+#replaysButton {
+    font-size: 3em;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
